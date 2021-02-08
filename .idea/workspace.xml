@@ -11,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1oAELUO7beUcXp9PGbKDyuVIXmB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,7 +19,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/routes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -65,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612720939096</updated>
       <workItem from="1612720940208" duration="10754000" />
+      <workItem from="1612826423296" duration="433000" />
     </task>
     <task id="LOCAL-00001" summary="Initial change">
       <created>1612722476745</created>
@@ -95,6 +97,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1612730952378" />
+    <state x="549" y="159" key="FileChooserDialogImpl" timestamp="1612826618726">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="159" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1612826618726" />
+    <state x="629" y="320" key="Github.Dialog.Accounts.Choose" timestamp="1612826669093">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="629" y="320" key="Github.Dialog.Accounts.Choose/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1612826669093" />
+    <state x="567" y="297" key="Github.ShareDialog" timestamp="1612826827955">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="567" y="297" key="Github.ShareDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1612826827955" />
+    <state x="581" y="122" key="Github.UntrackedFilesDialog" timestamp="1612826840919">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="581" y="122" key="Github.UntrackedFilesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1612826840919" />
     <state width="1515" height="214" key="GridCell.Tab.0.bottom" timestamp="1612778143864">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -115,5 +133,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="460" y="128" width="579" height="534" key="find.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1612722415987" />
+    <state x="513" y="319" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1612826805882">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="513" y="319" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1612826805882" />
   </component>
 </project>
